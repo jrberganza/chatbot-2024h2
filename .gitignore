@@ -1,0 +1,5 @@
+.venv/
+*.keras
+movie_conversations.txt
+movie_lines.txt
+__pycache__/
